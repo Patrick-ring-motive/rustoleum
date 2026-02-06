@@ -1,15 +1,3 @@
-# rustoleum# rustoleum 🦀
-
-`rustoleum` is a performance-focused utility library written in Rust. It provides a set of highly optimized functions and data structures designed to bridge the gap between low-level performance and high-level developer ergonomics.
-
-## Features
-
-- **Blazing Fast**: Leverages Rust's zero-cost abstractions and memory safety.
-- **Optimized Data Structures**: Custom implementations for specific high-concurrency use cases.
-- **Memory Efficient**: Minimal overhead, making it suitable for resource-constrained environments.
-- **Seamless Integration**: Designed to be easily used as a library in other Rust projects.
-
-## Project Structure# rustoleum 🦀
 # rustoleum 🦀
 
 `rustoleum` is a collection of experimental Rust macros and utilities designed to bypass standard safety checks and provide low-level memory manipulation shortcuts. It is intended for educational purposes and "forbidden" techniques.
